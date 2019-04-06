@@ -110,7 +110,7 @@ Patients will be able to easily upload and securely store their updated medical 
 - Change to the directory where the docker-compose.yml file is (`cd /Users/AkJn/fabric-dev-servers/fabric-scripts/hlfv1/composer`
 - Run `docker-compose stop` to stop the Fabric Containers.
 - Run `docker-compose start` to restart where you left off.
-- Change to the cloned repo's directory: `cd /Users/AkJn/Projects/Blockchain/EHR-System`
+- Change to the cloned repo's directory: `cd /Users/AkJn/Projects/Blockchain/Electronic-Health-Record-System`
 - Run this command to start the server: `composer-rest-server -c admin@ehr -n always -u true -d y -w true`
 - Goto `http://localhost:3000/explorer` to explore the REST API.
 
