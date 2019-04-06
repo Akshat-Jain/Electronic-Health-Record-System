@@ -95,8 +95,8 @@ Patients will be able to easily upload and securely store their updated medical 
 * Java for creating Android app
 
 # Instructions to run the API Backend
-- Clone the repo `git clone https://github.com/Akshat-Jain/EHR-System.git`
-- CD into the cloned directory using `cd EHR-System`.
+- Clone the repo `git clone https://github.com/Akshat-Jain/Electronic-Health-Record-System.git`
+- CD into the cloned directory using `cd Electronic-Health-Record-System`.
 - First install [Hyperledger composer](https://hyperledger.github.io/composer/latest/installing/installing-prereqs.html). Then install the [development environment](https://hyperledger.github.io/composer/latest/installing/development-tools.html).
 - Execute the following commands to setup your Blockchain network and generate Hyperledger Composer Rest Server:
 - `composer archive create -t dir -n .`
